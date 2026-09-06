@@ -1,4 +1,3 @@
 ---
-title: hoşgeldin karşimmm
+title: hosgeldin karsimmm
 ---
-
